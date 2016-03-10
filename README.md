@@ -66,5 +66,5 @@ For each plot you should
 
 
 
-=======
->>>>>>> 8a96c9de1f04ecc3d11936aabc0872069b07b23e
+
+
